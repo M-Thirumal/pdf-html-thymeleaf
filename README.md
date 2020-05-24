@@ -1,2 +1,2 @@
 # pdf-html-thymeleaf
-Generate PDF from HTML using Thymeleaf
+Generate PDF from HTML file using Thymeleaf
